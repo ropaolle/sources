@@ -1,12 +1,12 @@
 import "./App.css";
-import { loadSystems, loadAlerts } from "./lib/utils";
-import { Header, Footer, Application, Legend, AlertTable } from "./components/Layout";
+// import { loadSystems, loadAlerts } from "./lib/utils";
+import { Header, Footer } from "./components/Layout";
 
-const systems = loadSystems();
-const alerts = loadAlerts();
+// const systems = loadSystems();
+// const alerts = loadAlerts();
 
 function App() {
-  const showLabels = true;
+  // const showLabels = true;
 
   return (
     <div className="bg-seb-bggrey flex h-screen flex-col overflow-hidden">
