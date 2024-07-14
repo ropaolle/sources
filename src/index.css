@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .olle-1 {
+    color: blue;
+  }
+  .olle-2 {
+    color: green;
+    writing-mode: vertical-lr;
+  }
+  .striped {
+    /* background-color: #dedede; */
+    opacity: 0.7;
+    background: repeating-linear-gradient(45deg, #b7b7b7, #b7b7b7 5px, #cecece 5px, #cecece 25px);
+  }
+  /* .striped2 {
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background: repeating-linear-gradient(45deg, #444cf7, #444cf7 5px, #e5e5f7 5px, #e5e5f7 25px);
+  } */
+}
+
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-Light.woff2") format("woff2");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-Regular.woff2") format("woff2");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-RegularItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-Medium.woff2") format("woff2");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-Bold.woff2") format("woff2");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "SEBSansSerif";
+  src: url("./assets/SEBSansSerif-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@layer base {
+  html {
+    font-family: "SEBSansSerif", Arial, sans-serif;
+  }
+}
