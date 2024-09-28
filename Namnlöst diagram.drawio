@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Sida-1" id="Avd2UuJ078-vsjvyL1Ew">
-    <mxGraphModel>
+    <mxGraphModel dx="724" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B51JoAVoWB4f_Y3xYSjh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="500" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="B51JoAVoWB4f_Y3xYSjh-2" value="Soptunna" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="123" y="253" width="56" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="B51JoAVoWB4f_Y3xYSjh-3" value="Oljefat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="243" y="275" width="55" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="B51JoAVoWB4f_Y3xYSjh-4" value="Soptunna" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;glass=0;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="303" y="260" width="54" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B51JoAVoWB4f_Y3xYSjh-5" value="Soptunna" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="183" y="253" width="56" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="B51JoAVoWB4f_Y3xYSjh-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="217" width="500" height="7" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
