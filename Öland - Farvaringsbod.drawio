@@ -34,6 +34,18 @@
         <mxCell id="lUlJBxCOUc1RsAJqsheJ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="450" y="132" width="4.5" height="188" as="geometry" />
         </mxCell>
+        <mxCell id="lUlJBxCOUc1RsAJqsheJ-14" value="" style="endArrow=baseDash;html=1;rounded=0;endFill=0;startArrow=baseDash;startFill=0;strokeWidth=0.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="100" as="sourcePoint" />
+            <mxPoint x="580" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lUlJBxCOUc1RsAJqsheJ-15" value="500 cm" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="lUlJBxCOUc1RsAJqsheJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lUlJBxCOUc1RsAJqsheJ-21" value="Label" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="500" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
