@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Sida-1" id="tdef3MVgms2CZdFpKoRR">
-    <mxGraphModel dx="1014" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1724" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry x="208.5" y="382" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="lUlJBxCOUc1RsAJqsheJ-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="405.5" width="56" height="59" as="geometry" />
+          <mxGeometry x="88" y="379.5" width="56" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lUlJBxCOUc1RsAJqsheJ-31" value="Soptunna" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontSize=8;" vertex="1" parent="lUlJBxCOUc1RsAJqsheJ-35">
           <mxGeometry width="56" height="59" as="geometry" />
@@ -145,7 +145,7 @@
         <mxCell id="lUlJBxCOUc1RsAJqsheJ-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="739.5" y="410" width="9.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lUlJBxCOUc1RsAJqsheJ-70" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tak: 1000 kr&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;Marksten: 21x14: 30 st 200kr&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;95x45: 22m (28, 616 kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;145x45: 15m (47, 705kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;70x45: 30m (23, 660 kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;95x20: 80m (12, 1080 kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;120x45: 20m (37, 7400 kr)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lUlJBxCOUc1RsAJqsheJ-70" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tak: 1000 kr&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;Marksten: 21x14: 30 st 200kr&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;95x45: 22m (28, 616 kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;145x45: 15m (47, 705kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;70x45: 30m (23, 660 kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;95x20: 80m (12, 1080 kr)&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;120x45: 20m (37, 740 kr)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="590" width="340" height="180" as="geometry" />
         </mxCell>
       </root>
